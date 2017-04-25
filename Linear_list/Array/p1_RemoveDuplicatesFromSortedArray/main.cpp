@@ -1,7 +1,6 @@
 #include <iostream>
 #include "solution1.h"
 #include "solution2.h"
-#include "solution3.h"
 
 using std::cout;
 using std::endl;
@@ -36,3 +35,7 @@ int main(){
 	cout << res1 << " " << res2 << endl;
 	return 0;
 }
+/*
+  output:
+  7 7
+*/
